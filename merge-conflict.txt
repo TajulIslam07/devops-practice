@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-this line is for merge conflict test from feature1
-=======
 this line is for merge conflict test from feature2
->>>>>>> aad61e2 (merge conflict test feature2)
+this line is for merge conflict test from feature1
